@@ -4,16 +4,16 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome: Marcos Gomes de Oliveira Lana
+Matricula: 899071 
 
-## Tela de inspeção com navegador
+## Tela de inspeção com **navegador**
 
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+![Tela de inspeção com navegador](images/Ferramentas%20de%20Desenvolvedor%20Aula-DIW.PNG)
 
-## Tela de projeto no Replit
+## Tela de projeto no **Replit**
 
-`<Coloque aqui o print da tela do projeto no Replit>`
+![Tela de projeto no Replit](images/Replit%20Aula-DIW.PNG)
 
 
 ## Orientações sobre Linguagem MarkDown
